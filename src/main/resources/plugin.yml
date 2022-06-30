@@ -1,0 +1,10 @@
+name: tDeath
+version: '1.0'
+main: br.com.thiaago.tdeath.TDeath
+api-version: 1.19
+description: Plugin developed for Arcane Studios
+commands:
+  revive:
+    description: 'Get item to revive a player!'
+    permission: 'revive.use'
+

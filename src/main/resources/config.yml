@@ -1,0 +1,14 @@
+NOT_PERMISSION: '&cYou have not permission!'
+PLEASE_EMPTY_INVENTORY: '&cPlease empty your inventory'
+ITEM_ADDED_INVENTORY: '&aItem added to your inventory!'
+YOU_REVIVED_BY_PLAYER: '&aYou have been revived by the player %player%'
+YOU_REVIVED_PLAYER: '&aYou revived player %player%'
+TIME_SECONDS_DIE: '&cFrom here %time% seconds you will die!'
+YOU_DEAD: '&cYou dead!'
+ITEM:
+  type: GOLDEN_APPLE
+  displayName: '&aRevive'
+  lore:
+    - ''
+    - '&aUse to save a player!'
+TIME_TO_REVIVED_SECONDS: 60
